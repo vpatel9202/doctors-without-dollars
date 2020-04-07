@@ -1,3 +1,10 @@
+# Virtual Environment
+venv/
+
+# Git Secrets
+.gitsecret/keys/random_seed
+secrets/secrets-info.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
