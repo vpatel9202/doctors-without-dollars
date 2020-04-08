@@ -1,5 +1,6 @@
 import requests
 from requests.exceptions import HTTPError
+import json
 
 
 # ---------------------------------------------------------------------------- #
@@ -12,7 +13,8 @@ nbome_ein = 364135679
 aamc_ein  = 362169124
 ama_ein   = 360727175
 
-propublica_api = 'https://projects.propublica.org/nonprofits/api/v2'
+pp_search_url = 'https://projects.propublica.org/nonprofits/api/v2/search.json'
+pp_org_url = 'https://projects.propublica.org/nonprofits/api/v2/organizations/{}.json'
 
 
 # ---------------------------------------------------------------------------- #
@@ -20,7 +22,7 @@ propublica_api = 'https://projects.propublica.org/nonprofits/api/v2'
 # ---------------------------------------------------------------------------- #
 
 # Test for an HTTP response and if not "200", throw error.
-def test_for_http_response(url):
+def get_http_response(url):
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -30,5 +32,12 @@ def test_for_http_response(url):
     except Exception as error:
         print(f'Non-HTTP error: {error}')
     else:
-        print('Succesful HTTP response: {response}')
+        print(f'Succesful HTTP response: {response}')
         return response
+
+# Get organization data as JSON
+def get_org_data_as_json(ein):
+    url = pp_org_url.format(ein)
+
+    response = get_http_response(url).json()
+    return response
