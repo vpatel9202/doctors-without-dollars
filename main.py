@@ -41,3 +41,15 @@ def get_org_data_as_json(ein):
 
     response = get_http_response(url).json()
     return response
+
+# Save JSON to a file
+def save_json_to_file(write_data, write_file):
+    with open(write_file, "w") as f:
+        json.dump(write_data, f)
+
+# Read JSON from file
+def read_json_from_file(read_file):
+    with open(read_file) as f:
+        read_data = json.load(f)
+    
+    return read_data
