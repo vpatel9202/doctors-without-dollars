@@ -57,10 +57,15 @@ def read_json_from_file(read_file):
 # ----------------------------- Data Manipulation ---------------------------- #
 
 # Read complete organization JSON file and return filing data as pandas dataframe
-def filing_data_from_org_json(filename):
+def filing_data_from_org_json(filename, transpose=False):
     json_data = read_json_from_file(filename)
     filing_data = json_data['filings_with_data']
     columns = filing_data[0].keys()
 
     df = pandas.DataFrame(filing_data, columns=columns)
+    df = df.set_index('tax_prd_yr')
+
+    if transpose is True:
+        df = df.transpose()
+
     return df
