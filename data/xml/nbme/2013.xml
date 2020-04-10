@@ -1,0 +1,1664 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2012v2.0" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2013-05-09T05:23:29-07:00</Timestamp>
+    <TaxPeriodEndDate>2012-12-31</TaxPeriodEndDate>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2012-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>231352238</EIN>
+      <Name>
+        <BusinessNameLine1>National Board of Medical Examiners</BusinessNameLine1>
+      </Name>
+      <NameControl>NATI</NameControl>
+      <Phone>2155909500</Phone>
+      <USAddress>
+        <AddressLine1>3750 Market Street</AddressLine1>
+        <City>Philadelphia</City>
+        <State>PA</State>
+        <ZIPCode>19104</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Donald E Melnick</Name>
+      <Title>President</Title>
+      <DateSigned>2013-05-09</DateSigned>
+    </Officer>
+    <TaxYear>2012</TaxYear>
+    <BuildTS>2016-02-25 16:41:14Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO 990BinaryAttachments.1" softwareId="12000229" softwareVersion="2012v2.0">
+      <GrossReceipts>130710852</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <AllAffiliatesIncluded>false</AllAffiliatesIncluded>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.nbme.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1915</YearFormation>
+      <StateLegalDomicile>DC</StateLegalDomicile>
+      <ActivityOrMissionDescription>The mission of NBME is to protect the health of the public through state of the art assessment of health professionals.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>12</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>11</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>464</TotalNbrEmployees>
+      <TotalNbrVolunteers>520</TotalNbrVolunteers>
+      <TotalGrossUBI>-161928</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-94276</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>111153205</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>117754415</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>6048058</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>5459421</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>-302100</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>-161928</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>116899163</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>123051908</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>479916</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>496014</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>52812252</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>57011002</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>54942360</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>55972796</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>108234528</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>113479812</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>8664635</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>9572096</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>237662169</TotalAssetsBOY>
+      <TotalAssetsEOY>263552349</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>121324650</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>131168147</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>116337519</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>132384202</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>The mission of the NBME is to protect the health of the public through state of the art assessment of health professionals. While centered on assessment of physicians, this mission encompasses the spectrum of health professionals along the continuum of education, training, and practice and includes research in evaluation as well as development of assessment instruments.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>67624876</Expense>
+      <Revenue>91705700</Revenue>
+      <Description>The United States Medical Licensing Examination (USMLE) is a three-step examination for medical licensure in the United States and is sponsored by the Federation of State Medical Boards (FSMB) and the NBME. The USMLE program supports medical licensing authorities in the United States through its leadership in the development, delivery, and continual improvement of high-quality assessments across the continuum of physicians' preparation for practice. It assesses a physician's ability to apply knowledge, concepts, and principles, and to demonstrate fundamental patient-centered skills, that are important in health and disease and that constitute the basis of safe and effective patient care.Note: The expenses reflected above do not include institutional indirect expenses.</Description>
+      <Activity2>
+        <Expense>8651911</Expense>
+        <Revenue>9135818</Revenue>
+        <Description>The Health Profession Services program provides comprehensive assessment, educational, consultative, and research services for healthcare organizations. During 2012, NBME's Health Profession Services worked with 22 organizations to administer over 68,000 examinations for purposes of licensure, certification, maintenance of certification, evaluation of special competence, in-training, and self-assessment. These organizations included allied health professional associations, the national veterinary licensing board, members of the American Board of Medical Specialties, and medical societies. Examinations are administered worldwide.Note: The expenses reflected above do not include institutional indirect expenses.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>7426566</Expense>
+        <Revenue>15424446</Revenue>
+        <Description>The Medical School and Student Services program provides assessment services to domestic and international medical schools, students, and residents. In 2012, approximately 325,000 assessments were provided through the subject examination program, self-assessment services, web-based examination programs and pilot projects. Subject exams measure achievement in the traditional basic and clinical science disciplines and are used to compare student performance with a national reference group. A series of web-based self-assessments are available to help students assess their readiness to take USMLE. Faculty services include item-writing workshops, and medical school liaison activities and include the Advisory Committee for Medical School Programs.Note: The expenses reflected above do not include institutional indirect expenses.</Description>
+      </Activity3>
+      <TotalOfOtherProgramServiceExp>9067080</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceGrnt>496014</TotalOfOtherProgramServiceGrnt>
+      <TotalOfOtherProgramServiceRev>1488450</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>92770433</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">true</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="IRS990ScheduleD">true</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="IRS990ScheduleD">false</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="IRS990ScheduleD">false</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="IRS990ScheduleD">false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="IRS990ScheduleD">true</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>true</ForeignOffice>
+      <ForeignActivities referenceDocumentId="IRS990ScheduleF">true</ForeignActivities>
+      <MoreThan5000KToOrganizations referenceDocumentId="IRS990ScheduleF">true</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals referenceDocumentId="IRS990ScheduleF">false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations referenceDocumentId="IRS990ScheduleI">true</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="IRS990ScheduleI">false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="IRS990ScheduleK.1">true</TaxExemptBonds>
+      <InvestTaxExemptBonds>false</InvestTaxExemptBonds>
+      <EscrowAccount>false</EscrowAccount>
+      <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="IRS990ScheduleL">false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="IRS990ScheduleL">false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="IRS990ScheduleL">false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="IRS990ScheduleL">false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="IRS990ScheduleL">true</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="IRS990ScheduleL">false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="IRS990ScheduleR">false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>411</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>464</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>true</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <NumberOf8282Filed>0</NumberOf8282Filed>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <Form8899Filed>false</Form8899Filed>
+      <Form1098CFiled>false</Form1098CFiled>
+      <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+      <TaxableDistributions>false</TaxableDistributions>
+      <DistributionToDonor>false</DistributionToDonor>
+      <FiledLieu1041>false</FiledLieu1041>
+      <LicensedMoreThanOneState>false</LicensedMoreThanOneState>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>12</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>11</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>true</InvestmentInJointVenture>
+      <WrittenPolicyOrProcedure>true</WrittenPolicyOrProcedure>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>John J Hinke Jr</NamePerson>
+        <TelephoneNumber>2155909500</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>3750 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>191043102</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>English D Willis</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>3449</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Paul M Wallach</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>6283</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Walter G Ricciardi</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>N Stacy Lankford</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>1999</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Susan M Spaulding</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>2399</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Suzanne T Anderson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Christopher C Colenda</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>4549</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>William T Williams</NamePerson>
+        <Title>Past Chair</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>82399</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Lynn M Cleary</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Susan R Johnson</NamePerson>
+        <Title>Vice Chair</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>3849</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Lewis R First</NamePerson>
+        <Title>Chair</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>10499</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Donald E Melnick</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>1.00</AverageHoursPerWeekRelated>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>756980</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>124287</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kenneth E Cotton</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>144730</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>62224</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Shelley Z Green</NamePerson>
+        <Title>General Counsel</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>249515</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>106263</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>John T Wosnitzer</NamePerson>
+        <Title>SVP &amp; CFO</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>362931</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>140854</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ronald J Nungester</NamePerson>
+        <Title>SVP, Prof Svcs</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>385798</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>117604</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Peter J Katsufrakis</NamePerson>
+        <Title>SVP, Assmt Prgm</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>342135</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>79613</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Frank J Bilotta</NamePerson>
+        <Title>SVP &amp; CIO</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>1.00</AverageHoursPerWeekRelated>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>275900</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>26535</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Peter V Scoles</NamePerson>
+        <Title>Exec Dir, Intl Progs Dev</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>446082</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>102730</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Agata P Butler</NamePerson>
+        <Title>VP, Med Ed &amp; Health Prof Svcs</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>210265</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>95988</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David B Swanson</NamePerson>
+        <Title>VP, Prog Dev</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>344968</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>110558</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gerald F Dillon</NamePerson>
+        <Title>VP, USMLE</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>209657</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>108621</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Steven A Haist</NamePerson>
+        <Title>VP, Test Dev Svcs</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>275235</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>73996</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Joe E Crick</NamePerson>
+        <Title>Chief Bus Archt</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>265695</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>121078</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Robert M Galbraith</NamePerson>
+        <Title>Exec Dir Ctr Inv</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>370340</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>171824</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Stephen G Clyman</NamePerson>
+        <Title>Exec Dir Ctr Inv</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>298917</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>80070</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Howard C Wainer</NamePerson>
+        <Title>Research Scientist</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>242432</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>88798</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Margaret B Anderson</NamePerson>
+        <Title>Sr. Academic Ofcr.</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <AverageHoursPerWeekRelated>0.00</AverageHoursPerWeekRelated>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>244628</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>13836</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>5541634</TotalReportableCompFromOrg>
+      <TotalOtherCompensation>1624879</TotalOtherCompensation>
+      <NumberIndividualsGT100K>139</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Randstad Employment Solutions LP</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO Box 7247-6655</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19170</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Employment Agency</DescriptionOfServices>
+        <Compensation>135314</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Internet Testing Systems ITS LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>3000 Chestnut Avenue Suite 401</AddressLine1>
+            <City>Baltimore</City>
+            <State>MD</State>
+            <ZIPCode>21211</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Testing Services</DescriptionOfServices>
+        <Compensation>1129920</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Hewitt Associates LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>100 Half Day Road</AddressLine1>
+            <City>Lincolnshire</City>
+            <State>IL</State>
+            <ZIPCode>60069</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Consulting Services</DescriptionOfServices>
+        <Compensation>204299</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Cooke &amp; Bieler LP</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>1700 Market Street Suite 3222</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Investment Mgmt</DescriptionOfServices>
+        <Compensation>147870</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>44 New England Management Company</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>Hotel on Rittenhouse Square 210 W</AddressLine1>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <ZIPCode>19103</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Hotel Accommodations</DescriptionOfServices>
+        <Compensation>575379</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>9</NumberOfContractorsGT100K>
+      <TotalContributions>0</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>USMLE</Description>
+        <TotalRevenueColumn>91705700</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>91705700</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Other</Description>
+        <TotalRevenueColumn>1488451</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1488451</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Medical School Services</Description>
+        <TotalRevenueColumn>15424446</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>15424446</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Health Prof Organizations</Description>
+        <TotalRevenueColumn>9135818</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9135818</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>117754415</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>4456914</TotalRevenueColumn>
+        <ExclusionAmount>4456914</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <GrossRents>
+        <Real>697888</Real>
+      </GrossRents>
+      <LessRentalExpenses>
+        <Real>859816</Real>
+      </LessRentalExpenses>
+      <RentalIncomeOrLoss>
+        <Real>-161928</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>-161928</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>-161928</UnrelatedBusinessRevenue>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Securities>7621687</Securities>
+        <Other>179948</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>6623837</Securities>
+        <Other>175291</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>997850</Securities>
+        <Other>4657</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>1002507</TotalRevenueColumn>
+        <ExclusionAmount>1002507</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>123051908</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>117754415</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>-161928</UnrelatedBusinessRevenue>
+        <ExclusionAmount>5459421</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>364596</Total>
+        <ProgramServices>364596</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>131418</Total>
+        <ProgramServices>131418</ProgramServices>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>5541634</Total>
+        <ProgramServices>2346019</ProgramServices>
+        <ManagementAndGeneral>3195615</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>34576870</Total>
+        <ProgramServices>26365555</ProgramServices>
+        <ManagementAndGeneral>8211315</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>6682075</Total>
+        <ProgramServices>5091741</ProgramServices>
+        <ManagementAndGeneral>1590334</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>7520032</Total>
+        <ProgramServices>6489731</ProgramServices>
+        <ManagementAndGeneral>1030301</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>2690391</Total>
+        <ProgramServices>2179429</ProgramServices>
+        <ManagementAndGeneral>510962</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>507617</Total>
+        <ProgramServices>432687</ProgramServices>
+        <ManagementAndGeneral>74930</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>81500</Total>
+        <ManagementAndGeneral>81500</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>194259</Total>
+        <ManagementAndGeneral>194259</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>1636338</Total>
+        <ProgramServices>810857</ProgramServices>
+        <ManagementAndGeneral>825481</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>0</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>595520</Total>
+        <ProgramServices>453786</ProgramServices>
+        <ManagementAndGeneral>141734</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>2559925</Total>
+        <ProgramServices>871634</ProgramServices>
+        <ManagementAndGeneral>1688291</ManagementAndGeneral>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>1762643</Total>
+        <ProgramServices>1465736</ProgramServices>
+        <ManagementAndGeneral>296907</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>687253</Total>
+        <ProgramServices>547440</ProgramServices>
+        <ManagementAndGeneral>139813</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>2761754</Total>
+        <ProgramServices>2017305</ProgramServices>
+        <ManagementAndGeneral>744449</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>2035352</Total>
+        <ProgramServices>1820444</ProgramServices>
+        <ManagementAndGeneral>214908</ManagementAndGeneral>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>5064828</Total>
+        <ProgramServices>4182682</ProgramServices>
+        <ManagementAndGeneral>882146</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>472626</Total>
+        <ProgramServices>383218</ProgramServices>
+        <ManagementAndGeneral>89408</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Postage and Shipping</Description>
+        <Total>791212</Total>
+        <ProgramServices>602904</ProgramServices>
+        <ManagementAndGeneral>188308</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Credit Card Fees</Description>
+        <Total>944023</Total>
+        <ProgramServices>944023</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Clinical Skills Collaboration</Description>
+        <Total>17108420</Total>
+        <ProgramServices>17108420</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Vendor Computer Delivery Fees</Description>
+        <Total>17250472</Total>
+        <ProgramServices>17250472</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1519054</Total>
+        <ProgramServices>910336</ProgramServices>
+        <ManagementAndGeneral>608718</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>113479812</Total>
+        <ProgramServices>92770433</ProgramServices>
+        <ManagementAndGeneral>20709379</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <EOY>0</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>9294338</BOY>
+        <EOY>17153456</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <EOY>0</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>4089746</BOY>
+        <EOY>4317801</EOY>
+      </AccountsReceivable>
+      <ReceivablesFromOfficersEtc>
+        <EOY>0</EOY>
+      </ReceivablesFromOfficersEtc>
+      <ReceivablesFromDisqualPersons>
+        <EOY>0</EOY>
+      </ReceivablesFromDisqualPersons>
+      <OtherNotesLoansReceivableNet>
+        <EOY>0</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <EOY>0</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>1330608</BOY>
+        <EOY>1548626</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>116101982</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>44223076</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>73939392</BOY>
+        <EOY>71878906</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>144572037</BOY>
+        <EOY>163797935</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <EOY>0</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <EOY>0</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <EOY>0</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>4436048</BOY>
+        <EOY>4855625</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>237662169</BOY>
+        <EOY>263552349</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>7125484</BOY>
+        <EOY>9025898</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>30128949</BOY>
+        <EOY>30778476</EOY>
+      </DeferredRevenue>
+      <TaxExemptBondLiabilities>
+        <BOY>42420000</BOY>
+        <EOY>40025000</EOY>
+      </TaxExemptBondLiabilities>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>5473301</BOY>
+        <EOY>5385005</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>36176916</BOY>
+        <EOY>45953768</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>121324650</BOY>
+        <EOY>131168147</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>116337519</BOY>
+        <EOY>132384202</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>116337519</BOY>
+        <EOY>132384202</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>237662169</BOY>
+        <EOY>263552349</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>9572096</ReconcilationRevenueExpenses>
+      <ReconciliationUnrealizedInvest>13413302</ReconciliationUnrealizedInvest>
+      <ReconcilationOtherChanges>-6938715</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <FSAuditedBasis>
+        <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      </FSAuditedBasis>
+      <AuditCommittee>true</AuditCommittee>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="12000229" softwareVersion="2012v2.0">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <Total>0</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>95658462</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>101175477</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>106136698</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>111153205</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>117754415</CurrentTaxYear>
+        <Total>531878257</Total>
+      </GrossReceiptsFromAdmissions>
+      <GrossReceiptsFromNonUBI>
+        <Total>0</Total>
+      </GrossReceiptsFromNonUBI>
+      <TaxRevLeviedForOrgBenefit509>
+        <Total>0</Total>
+      </TaxRevLeviedForOrgBenefit509>
+      <ValueOfSvcsFcltsFurnishdByGovt>
+        <Total>0</Total>
+      </ValueOfSvcsFcltsFurnishdByGovt>
+      <Total509>
+        <CurrentTaxYearMinus4Years>95658462</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>101175477</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>106136698</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>111153205</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>117754415</CurrentTaxYear>
+        <Total>531878257</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <PublicSupportTotal509>531878257</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>4895247</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>3393638</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3609005</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>5231360</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4456914</CurrentTaxYear>
+        <Total>21586164</Total>
+      </GrossInvestmentIncome509>
+      <Post1975UBTI>
+        <Total>0</Total>
+      </Post1975UBTI>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>4895247</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>3393638</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>3609005</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>5231360</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4456914</CurrentTaxYear>
+        <Total>21586164</Total>
+      </InvestmentIncomeAndUBTI>
+      <NetIncomeFromOtherUBI>
+        <Total>0</Total>
+      </NetIncomeFromOtherUBI>
+      <OtherIncome509>
+        <Total>0</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>100553709</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>104569115</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>109745703</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>116384565</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>122211329</CurrentTaxYear>
+        <Total>553464421</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.96100</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.95890</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.03900</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.04110</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="IRS990ScheduleD" softwareId="12000229" softwareVersion="2012v2.0">
+      <CurrentYear>
+        <BeginningOfYearBalance>7312492</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>984357</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>369330</GrantsOrScholarships>
+        <EndOfYearBalance>7927518</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>7736661</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>-51254</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>372916</GrantsOrScholarships>
+        <EndOfYearBalance>7312492</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>7276380</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>860684</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>400403</GrantsOrScholarships>
+        <EndOfYearBalance>7736661</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <CurrentYearMinus3Years>
+        <BeginningOfYearBalance>6492759</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>1343822</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>560201</GrantsOrScholarships>
+        <EndOfYearBalance>7276380</EndOfYearBalance>
+      </CurrentYearMinus3Years>
+      <CurrentYearMinus4Years>
+        <BeginningOfYearBalance>8755880</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>-2068439</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>194682</GrantsOrScholarships>
+        <EndOfYearBalance>6492759</EndOfYearBalance>
+      </CurrentYearMinus4Years>
+      <BoardDesignatedEOYBalance>1.00000</BoardDesignatedEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>false</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>false</EndowmentsHeldByRelatedOrgs>
+      <AreRelatedOrgsListedScheduleR>false</AreRelatedOrgsListedScheduleR>
+      <Land>
+        <OtherCostOrOtherBasis>3221478</OtherCostOrOtherBasis>
+        <BookValue>3221478</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>79471099</OtherCostOrOtherBasis>
+        <Depreciation>18442685</Depreciation>
+        <BookValue>61028414</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>23079337</OtherCostOrOtherBasis>
+        <Depreciation>20128155</Depreciation>
+        <BookValue>2951182</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>10330068</OtherCostOrOtherBasis>
+        <Depreciation>5652236</Depreciation>
+        <BookValue>4677832</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>71878906</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Deferred Compensation Plans</Description>
+        <Amount>1952370</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Collaboration Payable</Description>
+        <Amount>1381575</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Capital Lease</Description>
+        <Amount>600582</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Accrued Pension Cost</Description>
+        <Amount>42019241</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>45953768</TotalOfAmounts>
+      <FootnoteInPartXIII>X</FootnoteInPartXIII>
+      <TotRevenueEtcAuditedFinclStmt>118452303</TotRevenueEtcAuditedFinclStmt>
+      <RevenueSubtotal>118452303</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>4599605</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>4599605</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>123051908</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>113970298</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>859816</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>859816</ExpensesNotRptdF990>
+      <ExpensesSubtotal>113110482</ExpensesSubtotal>
+      <OtherExpensesNotIncluded>369330</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>369330</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>113479812</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIII>
+        <Identifier>Part XII, Line 4b</Identifier>
+        <ReturnReference>Part XII, Line 4b: Other revenue amounts included on 990 but not included in F/S</ReturnReference>
+        <Explanation>Grants $369330</Explanation>
+      </Form990ScheduleDPartXIII>
+      <Form990ScheduleDPartXIII>
+        <Identifier>Part XII, Line 2d</Identifier>
+        <ReturnReference>Part XII, Line 2d: Other expenses and losses per audited F/S</ReturnReference>
+        <Explanation>Rental Expense $859816</Explanation>
+      </Form990ScheduleDPartXIII>
+      <Form990ScheduleDPartXIII>
+        <Identifier>Part XI, Line 4b</Identifier>
+        <ReturnReference>Part XI, Line 4b: Other revenue amounts included on 990 but not included in F/S</ReturnReference>
+        <Explanation>Div &amp; Int $4456914 Realized Gain $1002507 Rental Expense $-859816</Explanation>
+      </Form990ScheduleDPartXIII>
+      <Form990ScheduleDPartXIII>
+        <Identifier>Part X</Identifier>
+        <ReturnReference>Part X : FIN48 Footnote</ReturnReference>
+        <Explanation>NBME qualifies as a tax-exempt organization under existing provisions of the Internal Revenue Code (IRC). Accordingly, there is no provision for income taxes reflected in the accompanying financial statements. NBME has no uncertain tax positions and there are no accruals for interest or penalties in the accompanying financial statements. Management believes that NBME is no longer subject to income tax examinations for years ended on or prior to December 31, 2009.</Explanation>
+      </Form990ScheduleDPartXIII>
+      <Form990ScheduleDPartXIII>
+        <Identifier>Part V, Line 4</Identifier>
+        <ReturnReference>Part V, Line 4: Intended uses of the endowment fund.</ReturnReference>
+        <Explanation>In 1995, the NBME established the Edward J. Stemmler, MD Medical Education Research Fund. The initial sum of $5,000,000 was invested and professionally managed with the goal of increasing the size of the Fund over time while providing total annual grants up to 5% of the trailing three-year average of the fund balance. The Fund makes grants to support research in topics relevant to the mission of the NBME. Specific investment guidelines were established by the NBME Finance Committee. As with all NBME invested funds, the Finance Committee monitors performance and recommends to the Executive Board any changes to the principal balance of the Fund. Since inception to date, the Stemmler Fund has awarded 73 grants for a total of approximately $6.1 million.</Explanation>
+      </Form990ScheduleDPartXIII>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="IRS990ScheduleF" softwareId="12000229" softwareVersion="2012v2.0">
+      <GrantRecordsMaintained>true</GrantRecordsMaintained>
+      <AcctsActvsOutUSTable>
+        <Region>Cent Amer/Caribbean</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>7521</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>South America</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>7663</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>East Asia/Pacific</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>10962</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>Middle East</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>17995</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>North America</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>53186</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>Europe</Region>
+        <NumberOfOffices>0</NumberOfOffices>
+        <NumberOfEmployees>0</NumberOfEmployees>
+        <TypeOfActivitiesConducted>Program Services</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>See Part V</SpecificServicesProvided>
+        <TotalExpenditures>105255</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <SubtotalAmountSpent>202582</SubtotalAmountSpent>
+      <TotalAmountSpent>202582</TotalAmountSpent>
+      <GrantsToOrgsOutsideUS>
+        <Region>Canada</Region>
+        <PurposeOfGrant>See Note 3</PurposeOfGrant>
+        <AmountOfCashGrant>131418</AmountOfCashGrant>
+        <MannerOfCashDisbursement>Check</MannerOfCashDisbursement>
+        <MethodOfValuation>Cash</MethodOfValuation>
+      </GrantsToOrgsOutsideUS>
+      <TotalNumberOfOtherOrgs>3</TotalNumberOfOtherOrgs>
+      <TransferToForeignCorp>false</TransferToForeignCorp>
+      <InterestInForeignTrust>false</InterestInForeignTrust>
+      <OwnForeignCorp>false</OwnForeignCorp>
+      <PassiveForeignInvestCo>false</PassiveForeignInvestCo>
+      <ForeignPartnership>false</ForeignPartnership>
+      <BoycottCountries>true</BoycottCountries>
+      <Form990ScheduleFPartV>
+        <Identifier>Additional Supplemental Information</Identifier>
+        <Explanation>Form 990, Schedule F, Part I, column E - Activities Outside the USThe NBME protects the health of the public worldwide through assessment. NBME's International Programs unit provides students, graduate physicians, medical schools, and regulatory agencies with valid and reliable information regarding individual knowledge and overall curriculum effectiveness. NBME's international services have grown from a single exam, the International Foundations of Medicine (IFOM) Clinical Science Examination (CSE), to a portfolio of consultative, faculty and institutional development, and examination programs. More than 13,000 students or graduates of international medical schools have taken the IFOM examination since 2007. The NBME international portfolio also includes on-site evaluation of overall assessment capability for medical schools, customized assessment services, discipline-specific, end-of-course examinations, progress testing, residency selection examinations, and national licensing examinations. The International Programs unit is also involved in various research projects related to the validity and reliability of various assessment tools.</Explanation>
+      </Form990ScheduleFPartV>
+    </IRS990ScheduleF>
+    <IRS990ScheduleI documentId="IRS990ScheduleI" softwareId="12000229" softwareVersion="2012v2.0">
+      <RecordsMaintained>true</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Univ of Vermont College Md</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>89 Beaumont Avenue</AddressLine1>
+          <City>Burlington</City>
+          <State>VT</State>
+          <ZIPCode>05405</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>030179440</EINOfRecipient>
+        <IRCSection>501 (c)(3)</IRCSection>
+        <AmountOfCashGrant>40000</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Contribution-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Univ of Mass Amherst</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>134 Hicks Way</AddressLine1>
+          <City>Amherst</City>
+          <State>MA</State>
+          <ZIPCode>01003</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>542084125</EINOfRecipient>
+        <IRCSection>501 (c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Contribution-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Univ of Iowa</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2 Gilmore Hall</AddressLine1>
+          <City>Iowa City</City>
+          <State>IA</State>
+          <ZIPCode>52242</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>426004813</EINOfRecipient>
+        <IRCSection>115</IRCSection>
+        <AmountOfCashGrant>75668</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Grant-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Univ of California</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3333 California Street S 315</AddressLine1>
+          <City>San Francisco</City>
+          <State>CA</State>
+          <ZIPCode>94143</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>946036493</EINOfRecipient>
+        <IRCSection>501 (c)(3)</IRCSection>
+        <AmountOfCashGrant>88176</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Grant-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Univ City District</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3940-42 Chestnut Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>232913784</EINOfRecipient>
+        <IRCSection>501 (c)(3)</IRCSection>
+        <AmountOfCashGrant>64189</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Contribution-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>SUNY Upstate Med University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>750 East Adams Street</AddressLine1>
+          <City>Syracuse</City>
+          <State>NY</State>
+          <ZIPCode>13210</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>161469571</EINOfRecipient>
+        <IRCSection>501 (c)(3)</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Contribution-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Ohio State University</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>B034 Graves Hall 333 W 10th</AddressLine1>
+          <City>Columbus</City>
+          <State>OH</State>
+          <ZIPCode>43210</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>316025986</EINOfRecipient>
+        <IRCSection>115</IRCSection>
+        <AmountOfCashGrant>74068</AmountOfCashGrant>
+        <AmountOfNonCashAssistance>0</AmountOfNonCashAssistance>
+        <PurposeOfGrant>Grant-See Part IV</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>7</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Identifier>Grantmaker's Description of How Grants are Used</Identifier>
+        <Explanation>THE EDWARD J. STEMMLER, MD MEDICAL EDUCATION RESEARCH FUNDOF THE NATIONAL BOARD OF MEDICAL EXAMINERS (NBME)Purpose:The purpose of the Stemmler Fund is to provide support for research or development of innovative evaluation methodology or techniques, with the potential to advance assessment in medical education or practice at eligible medical schools.2012-2013 Goal: The goal of the Stemmler Fund's 2012-2013 Call for Letters of Intent is to provide support, through a program of annual grants, for research or development of innovative assessment approaches that will enhance the evaluation of those preparing to, or continuing to, practice medicine. Expected outcomes include advances in the theory, knowledge, or practice of assessment at any point along the continuum of medical education, from undergraduate and graduate education and training, through clinical practice. Pilot and more comprehensive projects are both of interest. Collaborative investigations within or among institutions are not only eligible but encouraged, particularly as they strengthen the likelihood of the project's overall contribution and success.Eligibility: The eligible applicants for Stemmler Fund grant awards are the medical schools accredited by the LCME or the AOA. Additional eligibility requirements include:- The number of Letters of Intent submitted by any eligible school is not limited. However, an individual may not be principal investigator on more than one Letter of Intent. The designated principal investigator must represent the primary applicant institution and must be responsible for project oversight and reporting. (The applicant institution's rules apply regarding eligibility of their faculty, staff, or associates to serve as investigators.)- A maximum of two applications representing a revised Letter of Intent previously submitted to the Fund program will be accepted by the NBME. That is, applications addressing the same substantive study topic by the same investigators may be submitted for Fund consideration no more than a total of three times.- The primary investigators of prior Fund grants are eligible to reapply and compete (with new applicants) for one additional award through the Stemmler Fund Call for Letters of Intent for the same line of study. Current award recipients are eligible to compete again only if any current NBME support is expected to terminate satisfactorily by the beginning of the 2012-2013 project period (usually July 1, 2013).Selection Process:1. All submitted Letters of Intent will be reviewed by NBME staff to ensure eligibility and completeness.2. The Stemmler Fund Steering Committee will then evaluate Letters of Intent on the extent to which the proposed research is innovative or will advance assessment in medical education or practice, and addresses an important problem or issue in medical education or practice.3. The Stemmler Fund Steering Committee will then meet to select a subset of Letters of Intent (e.g., 10-15) and invite the principal investigators to submit full proposals.4. All Invited Proposals will be reviewed by NBME staff to ensure completeness.5. Peer reviewers with expertise in measurement, research design and methodology will then evaluate Invited Proposals on the relevance and significance of the proposal to the purpose and goals of the Stemmler Fund, the adequacy of the research design or methodology, and the qualifications of the principal investigator and project staff.6. The Stemmler Fund Steering Committee will then review all proposals and peer reviews, giving careful consideration to the adequacy of the budget, timetable, and other key project resources in each proposal, and select awardees. The NBME will provide feedback detailing the comments provided by reviewers of applications not selected for funding.Grant Fund Use Monitoring:Grant recipients are required to submit an interim and final report which includes a Final Project Narrative and a Final Project Fiscal Report.</Explanation>
+      </Form990ScheduleIPartIV>
+      <Form990ScheduleIPartIV>
+        <Identifier>Additional Supplemental Information</Identifier>
+        <Explanation>Form 990, Schedule I, Part II, Line 1a - GrantsEach school is listed with the approved grant as follows:1. Ohio State University Proposal #1112-064, "Virtual Patients Simulations to Assess Data-Gathering and Clinical Reasoning".2. University of California, San Francisco Proposal # 1011-026, "Developing a tool of assessing individual inter-professional teamwork skills across clinical settings".3. University of Iowa Proposal # 1112-001, "Simulation Approaches for Training in Fluoroscopically Guided Orthopaedic Trauma Surgery".Contributions:NBME periodically makes contributions to organizations and/or community programs in order to assist in furthering the exempt purpose of those organizations. The total amount of contributions made in 2012 was $126,684.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ" softwareId="12000229" softwareVersion="2012v2.0">
+      <FirstClassOrCharterTravel>X</FirstClassOrCharterTravel>
+      <TravelForCompanions>X</TravelForCompanions>
+      <IdemnificationGrossUpPayments>X</IdemnificationGrossUpPayments>
+      <ClubDuesOrFees>X</ClubDuesOrFees>
+      <WrittenPolicyReTAndEExpenses>true</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>true</SubstantiationRequired>
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <Form990OfOtherOrganizations>X</Form990OfOtherOrganizations>
+      <WrittenEmploymentContract>X</WrittenEmploymentContract>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>true</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <RebuttablePresumptionProcedure>false</RebuttablePresumptionProcedure>
+      <Form990ScheduleJPartII>
+        <NamePerson>Steven A Haist</NamePerson>
+        <Title>VP, Test Dev Svcs</Title>
+        <BaseCompensationFilingOrg>274136</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>1099</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>47419</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>26577</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>349231</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Stephen G Clyman</NamePerson>
+        <Title>Exec Dir Ctr Inv</Title>
+        <BaseCompensationFilingOrg>284580</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>14337</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>54168</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>25902</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>378987</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Shelley Z Green</NamePerson>
+        <Title>General Counsel</Title>
+        <BaseCompensationFilingOrg>248927</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>588</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>80352</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>25911</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>355778</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Ronald J Nungester</NamePerson>
+        <Title>SVP, Prof Svcs</Title>
+        <BaseCompensationFilingOrg>328955</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>56843</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>95909</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21695</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>503402</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Robert M Galbraith</NamePerson>
+        <Title>Exec Dir Ctr Inv</Title>
+        <BaseCompensationFilingOrg>327466</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>42874</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>150785</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21039</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>542164</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Peter V Scoles</NamePerson>
+        <Title>Exec Dir, Intl Progs Dev</Title>
+        <BaseCompensationFilingOrg>374771</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>71311</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>81672</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21058</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>548812</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Peter J Katsufrakis</NamePerson>
+        <Title>SVP, Assmt Prgm</Title>
+        <BaseCompensationFilingOrg>316536</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>25599</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>58074</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21539</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>421748</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Margaret B Anderson</NamePerson>
+        <Title>Sr. Academic Ofcr.</Title>
+        <BaseCompensationFilingOrg>243474</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>1154</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>3216</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>10620</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>258464</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Kenneth E Cotton</NamePerson>
+        <Title>Secretary</Title>
+        <BaseCompensationFilingOrg>144362</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>368</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>52293</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>9931</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>206954</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>John T Wosnitzer</NamePerson>
+        <Title>SVP &amp; CFO</Title>
+        <BaseCompensationFilingOrg>298461</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>64470</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>119171</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21683</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>503785</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Joe E Crick</NamePerson>
+        <Title>Chief Bus Archt</Title>
+        <BaseCompensationFilingOrg>260776</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>4919</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>94424</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>26654</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>386773</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Howard C Wainer</NamePerson>
+        <Title>Research Scientist</Title>
+        <BaseCompensationFilingOrg>240706</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>1726</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>67709</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21089</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>331230</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Gerald F Dillon</NamePerson>
+        <Title>VP, USMLE</Title>
+        <BaseCompensationFilingOrg>209002</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>655</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>87893</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>20728</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>318278</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Frank J Bilotta</NamePerson>
+        <Title>SVP &amp; CIO</Title>
+        <BaseCompensationFilingOrg>278084</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>-2184</OtherCompensationFilingOrg>
+        <NontaxableBenefitsFilingOrg>26535</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>302435</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Donald E Melnick</NamePerson>
+        <Title>President</Title>
+        <BaseCompensationFilingOrg>577431</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>179549</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>102658</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21629</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>881267</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>David B Swanson</NamePerson>
+        <Title>VP, Prog Dev</Title>
+        <BaseCompensationFilingOrg>310320</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>34648</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>88929</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21629</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>455526</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Agata P Butler</NamePerson>
+        <Title>VP, Med Ed &amp; Health Prof Svcs</Title>
+        <BaseCompensationFilingOrg>211225</BaseCompensationFilingOrg>
+        <OtherCompensationFilingOrg>-960</OtherCompensationFilingOrg>
+        <DeferredCompFilingOrg>74677</DeferredCompFilingOrg>
+        <NontaxableBenefitsFilingOrg>21311</NontaxableBenefitsFilingOrg>
+        <TotalCompensationFilingOrg>306253</TotalCompensationFilingOrg>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>Sch J, Part I, Line 1a</Identifier>
+        <ReturnReference>Part I, Line 1a: Relevant information in regards to selections on 1a.</ReturnReference>
+        <Explanation>First Class Travel and Travel for CompanionsNBME's Business Travel policy states that "NBME reimburses reasonable and actual air and train travel at the most economical coach fare." First-class travel and travel for companions are not specifically authorized in the policy. In limited circumstances, certain NBME Officers and Key Employees may be permitted first-class travel if authorized by the President. First-class travel and spousal travel for the President is included in the compensation package. The cost incurred for travel for companions is included in the employee's taxable earnings.Tax Indemnification and Gross-Up PaymentsNBME has a Supplemental Executive Retirement Plan (SERP) and Highly Compensated Employee program (HCE) for which the payments are grossed up for Federal, State, and local income taxes. Therefore, the amount reflected on the employees' W-2 includes taxes remitted by NBME for taxes on the employees' behalf. See Schedule J, Part 1, line 4 for description of the SERP and the HCE.Social Club DuesNBME pays dues for membership to The Pyramid Club for its President.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="IRS990ScheduleK.1" softwareId="12000229" softwareVersion="2012v2.0">
+      <Form990ScheduleKPartI>
+        <BondReferenceCd>A</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1>Phila Auth for Ind Dev</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>232237287</IssuerEIN>
+        <CUSIPNumber>7178183S5</CUSIPNumber>
+        <DateIssued>2008-08-05</DateIssued>
+        <IssuePrice>41025000</IssuePrice>
+        <DescriptionOfPurpose>Refunding of 01/2008 Bonds</DescriptionOfPurpose>
+        <Defeased>false</Defeased>
+        <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <BondReferenceCd>A</BondReferenceCd>
+        <TotalProceeds>40732984</TotalProceeds>
+        <IssuanceCostsFromProceeds>422984</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>40310000</CapitalExpenditures>
+        <CurrentRefunding>true</CurrentRefunding>
+        <AdvanceRefunding>false</AdvanceRefunding>
+        <FinalAllocationMade>true</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>true</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIII>
+        <BondReferenceCd>A</BondReferenceCd>
+        <OwningBondFinancedProperty>false</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>false</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>false</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>false</AnyResearchAgreements>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIV>
+        <BondReferenceCd>A</BondReferenceCd>
+        <Form8038TFiled>false</Form8038TFiled>
+        <NoRebateDue>true</NoRebateDue>
+        <HedgeIdentifiedInBooksAndRecds>false</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>false</GrossProceedsInvestedInGIC>
+        <RegulatorySafeHarborSatisfied>false</RegulatorySafeHarborSatisfied>
+        <GrossProceedsInvested>false</GrossProceedsInvested>
+        <WrittenProcToMonitorReqs>false</WrittenProcToMonitorReqs>
+      </Form990ScheduleKPartIV>
+      <Form990ScheduleKPartV>
+        <BondReferenceCd>A</BondReferenceCd>
+        <ProcToUndertkCorrectiveAction>true</ProcToUndertkCorrectiveAction>
+      </Form990ScheduleKPartV>
+      <Form990ScheduleKPartVI>
+        <Identifier>Supplemental Information</Identifier>
+        <ReturnReference>Part VI</ReturnReference>
+        <Explanation>Part IV Arbitrage line 2c - Rebate computation was performed on 9/12/2012</Explanation>
+      </Form990ScheduleKPartVI>
+    </IRS990ScheduleK>
+    <IRS990ScheduleL documentId="IRS990ScheduleL" softwareId="12000229" softwareVersion="2012v2.0">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Drew P Dillon</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>Son of Key EE</Relationship>
+        <AmountOfTransaction>55437</AmountOfTransaction>
+        <DescriptionOfTransaction>Compensation as Employee</DescriptionOfTransaction>
+        <SharingOfRevenues>false</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="12000229" softwareVersion="2012v2.0">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part XI, Line 9</Identifier>
+        <ReturnReference>Other Changes In Net Assets Or Fund Balances - Other Increases</ReturnReference>
+        <Explanation>Settlements = $1600000</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part XI, Line 9</Identifier>
+        <ReturnReference>Other Changes In Net Assets Or Fund Balances - Other Decreases</ReturnReference>
+        <Explanation>Changes other than Net Periodic Pension Cost = -$8538715</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 19</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 19: Other Organization Documents Publicly Available</ReturnReference>
+        <Explanation>NBME governing documents, Conflict of Interest Policy, and financial statements are available upon request to the NBME Secretary of the Board.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 15b</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 15b: Compensation Review and Approval Process for Officers and Key Employees</ReturnReference>
+        <Explanation>Periodically, typically every three years, a Compensation Survey of Peer Organizations is conducted by an outside independent compensation consulting firm. The recommendations resulting from the survey are reviewed by NBME Human Resources and the Compensation Subcommittee of the NBME Executive Board. Officer employees and Key Employee compensation is reviewed and confirmed annually by the Compensation Subcommittee. Payments to non-employee officers are reviewed and approved by the Executive Board with interested officers recused. In setting CEO compensation, the Compensation Subcommittee uses the Compensation Survey of Peer Organizations and the results of the detailed annual CEO Evaluation of performance report from the CEO Evaluation Subcommittee of the Executive Board. The CEO compensation is set and approved by the Compensation Subcommittee of the Executive Board which then reports to the Executive Board that it has reviewed the relevant information and made a decision.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 12c</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 12c: Explanation of Monitoring and Enforcement of Conflicts</ReturnReference>
+        <Explanation>The National Board of Medical Examiners has a written Conflict of Interest Policy for its Members as well as a Fiduciary Duty and Conflict of Interest Statement for its Officers, Key Employees and Executive Board Members. These individuals are required to review and sign the applicable policy annually. Submission of completed statements by Officers, Key Employees, and Executive Board Members is enforced and annual disclosures of interests that could give rise to conflicts are monitored by the Secretary of the Board. Potential or real conflicts of interest are required to be reported to the Secretary of the Board or its President. If deemed appropriate, the party will be recused from the relevant proceedings.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 11b</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 11b: Form 990 Review Process</ReturnReference>
+        <Explanation>The Form 990 is reviewed by the NBME President, Chief Financial Officer, Director of Financial Operations and General Counsel prior to filing the return with the Internal Revenue Service (IRS). The review is conducted via a formal meeting during which material disclosures and significant changes in the document from the previous year's return are reviewed and discussed to ensure appropriate and complete disclosure. A copy of the Form 990 was provided to the NBME Executive Board and Audit Committee members prior to filing the return with the IRS. Any revisions necessary as a result of their review of the Form 990 were made prior to filing with the IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 7b</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 7b: Describe Decisions of Governing Body Approval by Members or Shareholders</ReturnReference>
+        <Explanation>See Schedule O - Form 990, Part VI, line 6.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 7a</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 7a: How Members or Shareholders Elect Governing Body</ReturnReference>
+        <Explanation>See Schedule O - Form 990, Part VI, line 6.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 6</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 6: Explanation of Classes of Members or Shareholder</ReturnReference>
+        <Explanation>The members of the NBME are responsible for electing its board of directors, the Executive Board, approving policy for the organization on recommendation of the Executive Board, approving the annual budget, and approving amendments to the by-laws of the organization. The members of the NBME include its Executive Board, up to twenty-two representatives of the test committees, twenty-two representative members nominated by key constituent medical organizations, elected members-at-large, and honorary members. The members of the NBME meet annually. The officers and members of the Executive Board, elected by the NBME membership, meet four or five times a year.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part III, Line 4d</Identifier>
+        <ReturnReference>Form 990, Part III, Line 4d: Other Program Services Description</ReturnReference>
+        <Explanation>OTHER PROGRAM SERVICES 4: The Post-Licensure Assessment System (PLAS) is a joint activity of the NBME and the Federation of State Medical Boards (FSMB). PLAS comprises two programs: the Special Purpose Examination (SPEX) Program and the Assessment Center Program (ACP). SPEX is a one-day, multiple-choice examination of current knowledge requisite for the general, undifferentiated practice of medicine and is intended to be used for reasons of endorsement or reciprocity of licensure. The ACP provides comprehensive objective and personalized assessments of physicians for whom there is a question regarding clinical competence. Together, the PLAS programs have assessed thousands of physicians over the past decade for reasons that range from endorsement of licensure to license reactivation after disciplinary action. In 2012, the Assessment of Professional Behaviors (APB) multisource feedback program was rebranded as the Observational Assessment (OA) team to better reflect NBMEs work in multiple domains. In 2012, the OA team worked closely with the Center for Innovation (see below) and the Association of Pediatric Program Directors to design and implement observational assessments of pediatric milestones. Also in 2012, the OA team provided consulting services to Weill Cornell Medical College in Qatar; met with the Royal College of Surgeons in Ireland School of Pharmacy to develop a pilot program that would assess core competencies; and revisited the potential for observational assessment of professionalism in undergraduate medical education.Research and Development Programs include the Center for Innovation and the Stemmler Medical Education Research Fund. The Center for Innovation is charged with development of new products and services and exploration of new ventures that facilitate NBME's strategic vision and mission. The Stemmler Medical Education Research Fund assists research in topics relevant to the mission of NBME and has supported 73 grant awards for a total of over $6.1 million since 1995. In addition to these defined programs of research and development, each program area and service unit is charged to carry on a program of research and development relevant to the work of the program or unit, for example, development of new item formats for USMLE, exploring relationships between prior measures and certifying exam performance for our clients and developing new testing methods for clients. These research and development activities result in the publication of dozens of research reports in scientific journals and presentations at scientific meetings each year.Note: The expenses reflected above do not include institutional indirect expenses. OTHER PROGRAM SERVICES 5: NBME's International Programs unit provides students, graduate physicians, medical schools, and regulatory agencies with valid and reliable information regarding individual knowledge and overall curriculum effectiveness. The International Foundations of Medicine (IFOM) examinations represent a key component of NBME International Programs. The Clinical Science Examination (CSE) covers the core of clinical knowledge in medicine, surgery, pediatrics, obstetrics and gynecology, and psychiatry expected of students in the final year of undergraduate medical education. The Basic Science Examination (BSE) incorporates the common core of knowledge expected of students who have completed the preclinical curriculum and are about to begin study of clinical medicine. In 2012, approximately 3,400 candidates sat for the IFOM CSE. The NBME International Programs unit also offers a portfolio of consultative, faculty and institutional development, and assessment programs in the international undergraduate medical education, certification and licensure, and graduate medical education environments. Consultative services often include an on-site evaluation of the overall assessment capability for medical schools. The International Programs unit is also involved in various research projects related to the validity and reliability of various assessment tools. Note: The expenses reflected above do not include institutional indirect expenses.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Client Note 1 - Note 1 - Form 990 Part I, line 6 - VolunteersNBME utilizes an extensive network of volunteers, many of which are medical school faculty members and practicing physicians, to accomplish its mission. These volunteers contribute the highest levels of expertise in their profession to a range of activities including test development and governance in return for a small honorarium.Note 2 - Form 990 Part VI, line 1b - Donald E. Melnick, as President of NBME, is an ex officio member of the NBME Executive Board.Note 3 - Schedule F Part II, line 1d1. McMaster University Proposal # 1011-039, "Ensuring diversity and test security: An examination of the reliability, validity, feasibility, and acceptability of the computer-based assessment for sampling personal characteristics (CASPer) in diverse populations of medical school applicants".2. University of British Columbia Proposal # 1112-029, Rater Cognition as Categorical Judgments: Using Person Models to Understand Rater Error.3. University of Toronto Proposal # 1011-017, "Towards a predictive model of residents' performance: Exploring a novel method for analyzing written comments on residents' ITERs".</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR" softwareId="12000229" softwareVersion="2012v2.0">
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Data Commons LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>2450 N Street NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>20037</ZIPCode>
+        </AddressUS>
+        <EIN>371708236</EIN>
+        <PrimaryActivity>Health Education Data Exchange</PrimaryActivity>
+        <LegalDomicileState>DE</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <PredominantIncomeType>Related</PredominantIncomeType>
+        <DisproportionateAllocations>false</DisproportionateAllocations>
+        <GeneralOrManagingPartner>false</GeneralOrManagingPartner>
+        <PercentageOwnership>0.20000</PercentageOwnership>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Computer-Based Testing &amp; Learning Corp</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>3750 Market Street</AddressLine1>
+          <City>Philadelphia</City>
+          <State>PA</State>
+          <ZIPCode>19104</ZIPCode>
+        </AddressUS>
+        <EIN>232447706</EIN>
+        <PrimaryActivity>Comp-based Testing</PrimaryActivity>
+        <LegalDomicileState>PA</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NBME</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>C Corp</TypeOfEntity>
+        <PercentageOwnership>1.00000</PercentageOwnership>
+        <ControlledOrg>false</ControlledOrg>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <DividendsRelatedOrganization>false</DividendsRelatedOrganization>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>true</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>false</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
