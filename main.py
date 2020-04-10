@@ -2,6 +2,7 @@ import requests
 from requests.exceptions import HTTPError
 import json
 import pandas
+import xmltodict
 
 
 # ---------------------------------------------------------------------------- #
@@ -41,6 +42,9 @@ def get_org_data_as_json(ein):
     response = get_http_response(url).json()
     return response
 
+
+# ----------------------------- File Manipulation ---------------------------- #
+
 # Save JSON to a file
 def save_json_to_file(write_data, write_file):
     with open(write_file, "w") as f:
@@ -52,6 +56,21 @@ def read_json_from_file(read_file):
         read_data = json.load(f)
 
     return read_data
+
+# Read XML data and convert it to JSON data (optionally save it to JSON file)
+def xml_to_json(xml_file, **kwargs):
+    json_file = kwargs.get('json_file', None)
+
+    with open(xml_file) as f:
+        xml_dict = xmltodict.parse(f.read())
+        xml_dict = xml_dict['Return']['ReturnData']
+
+    if json_file:
+        save_json_to_file(xml_dict, json_file)
+
+    else:
+        json_data = json.dumps(xml_dict)
+        return json_data
 
 
 # ----------------------------- Data Manipulation ---------------------------- #
