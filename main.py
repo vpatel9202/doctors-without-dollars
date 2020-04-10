@@ -3,6 +3,7 @@ from requests.exceptions import HTTPError
 import json
 import pandas
 import xmltodict
+from pathlib import Path
 
 
 # ---------------------------------------------------------------------------- #
@@ -75,7 +76,8 @@ def xml_to_json(xml_file, **kwargs):
 
 # ----------------------------- Data Manipulation ---------------------------- #
 
-# Read complete organization JSON file and return filing data as pandas dataframe
+# Read complete organization JSON file obtained from **PROPUBLICA API** and
+# return filing data as pandas dataframe
 def filing_data_from_org_json(filename, transpose=False):
     json_data = read_json_from_file(filename)
     filing_data = json_data['filings_with_data']
@@ -83,6 +85,21 @@ def filing_data_from_org_json(filename, transpose=False):
 
     df = pandas.DataFrame(filing_data, columns=columns)
     df = df.set_index('tax_prd_yr')
+
+    if transpose is True:
+        df = df.transpose()
+
+    return df
+
+# Read complete organization JSON file obtained from **IRS XML FILES** and
+# return filing data as pandas dataframe
+def filing_data_from_org_json2(filename, transpose=False):
+    json_data = read_json_from_file(filename)
+    df = pandas.json_normalize(json_data, max_level=5)
+
+    filing_year = [Path(filename).stem]
+    df['filing_year'] = filing_year
+    df.set_index('filing_year', inplace=True, drop=True)
 
     if transpose is True:
         df = df.transpose()
