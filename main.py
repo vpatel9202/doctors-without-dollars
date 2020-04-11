@@ -4,6 +4,8 @@ import json
 import pandas
 import xmltodict
 from pathlib import Path
+import xml.etree.ElementTree as ET
+import re
 
 
 # ---------------------------------------------------------------------------- #
@@ -91,11 +93,19 @@ def filing_data_from_org_json(filename, transpose=False):
 
     return df
 
-# Read complete organization JSON file obtained from **IRS XML FILES** and
-# return filing data as pandas dataframe
-def filing_data_from_org_json2(filename, transpose=False):
-    json_data = read_json_from_file(filename)
-    df = pandas.json_normalize(json_data, max_level=5)
+# Create dataframe object from IRS XML files by first flattening them
+def xml_to_df(filename, transpose=False):
+    tree = ET.parse(filename)
+    root = tree.getroot()
+
+    parent_map = {}
+    for p in tree.iter():
+        for c in p:
+            url_pattern = re.compile(r"{(https?|ftp)://(-\.)?([^\s/?\.#-]+\.?)+(/[^\s]*)?}")
+            tag_name = url_pattern.sub("", c.tag)
+            parent_map[tag_name] = [c.text]
+
+    df = pandas.DataFrame(parent_map)
 
     filing_year = [Path(filename).stem]
     df['filing_year'] = filing_year
