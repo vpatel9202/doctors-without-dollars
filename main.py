@@ -78,6 +78,12 @@ def xml_to_json(xml_file, **kwargs):
 
 # ----------------------------- Data Manipulation ---------------------------- #
 
+# Clean pandas dataframes of whitespace cells with no other data
+def clean_df(dataframe):
+    df = dataframe.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+
+    return df
+
 # Read complete organization JSON file obtained from **PROPUBLICA API** and
 # return filing data as pandas dataframe
 def filing_data_from_org_json(filename, transpose=False):
@@ -87,6 +93,8 @@ def filing_data_from_org_json(filename, transpose=False):
 
     df = pandas.DataFrame(filing_data, columns=columns)
     df = df.set_index('tax_prd_yr')
+
+    df = clean_df(df)
 
     if transpose is True:
         df = df.transpose()
@@ -112,6 +120,8 @@ def xml_to_df(filename, transpose=False):
     df.set_index('filing_year', inplace=True, drop=True)
     df.index = df.index.astype(int)
 
+    df = clean_df(df)
+
     if transpose is True:
         df = df.transpose()
 
@@ -119,7 +129,7 @@ def xml_to_df(filename, transpose=False):
 
 # Create dataframe with aggregated data from yearly XML filings from the IRS
 def xml_dir_to_df(xml_dir, transpose=False):
-    df = pandas.DataFrame({'A': ['']})
+    df = pandas.DataFrame()
 
     pathlist = Path(xml_dir).glob('*.xml')
     for path in pathlist:
@@ -127,6 +137,8 @@ def xml_dir_to_df(xml_dir, transpose=False):
         df = pandas.concat([df, new_df], sort=False)
 
     df.sort_index(axis=0, inplace=True)
+
+    df = clean_df(df)
 
     if transpose is True:
         df = df.transpose()
