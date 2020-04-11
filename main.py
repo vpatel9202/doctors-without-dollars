@@ -110,6 +110,23 @@ def xml_to_df(filename, transpose=False):
     filing_year = [Path(filename).stem]
     df['filing_year'] = filing_year
     df.set_index('filing_year', inplace=True, drop=True)
+    df.index = df.index.astype(int)
+
+    if transpose is True:
+        df = df.transpose()
+
+    return df
+
+# Create dataframe with aggregated data from yearly XML filings from the IRS
+def xml_dir_to_df(xml_dir, transpose=False):
+    df = pandas.DataFrame({'A': ['']})
+
+    pathlist = Path(xml_dir).glob('*.xml')
+    for path in pathlist:
+        new_df = xml_to_df(path)
+        df = pandas.concat([df, new_df], sort=False)
+
+    df.sort_index(axis=0, inplace=True)
 
     if transpose is True:
         df = df.transpose()
